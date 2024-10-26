@@ -1,7 +1,7 @@
 ### **<div align="center">🚀Hi, I'm Mohd Zubair Ahmed, a dedicated Computer Science student passionate about crafting exceptional user experiences. Proficient in ReactJS, UI/UX design, MERN Stack, C++, and Data Structures & Algorithms 💻✨ </div>**  
   
 
-- 🌱 I’m currently learning Backend  
+- 🌱 I’m currently learning AI technology and efficiency in code architecture  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies😀👍  
