@@ -1,31 +1,31 @@
 <div align="center">
 
 # 👋 Hi, I'm Mohd Zubair Ahmed  
-### Full-Stack Developer | Java Spring Boot Enthusiast | UI/UX Engineer | DevOps Learner
+### Java Backend Developer | Automation Engineer | Spring Boot Specialist
 
-🌍 Turning ideas into scalable systems with elegant code and intuitive design.
+🌍 I design resilient backend systems and automation-first delivery pipelines for production-grade applications.
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 Professional Profile
 
-🎯 I’m a **passionate Full-Stack Developer** who specializes in:
+🎯 I’m a **Java backend-focused engineer** with strong ownership across architecture, quality, and automation:
 
-- Crafting **robust backends** with Java Spring Boot  
-- Designing **RESTful APIs** with secure, scalable architecture  
-- Building **modern UIs** with React & Tailwind CSS  
-- Creating **full-stack web apps** that blend performance and design  
-- Writing **clean, maintainable code** that solves real-world problems  
+- Building **high-performance backend services** with Java, Spring Boot, and clean architecture
+- Designing **secure REST APIs** with validation, RBAC, JWT/OAuth2, and clear API contracts
+- Driving **test automation** across unit, integration, and API layers
+- Implementing **CI/CD pipelines** with GitHub Actions and Docker-based workflows
+- Enforcing **engineering standards** with code quality gates, observability, and maintainable design
 
-🔎 I value clean architecture, component reusability, cloud readiness, and meaningful user experiences.
+🔎 I care about domain-driven thinking, developer productivity, and reliable deployments at scale.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Tech Stack
 
-### ⚙️ Backend
+### ⚙️ Backend Engineering
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="55" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="55" alt="Spring Boot" />
@@ -35,45 +35,64 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="55" alt="Maven" />
 </div>
 
-### 🎨 Frontend
+### 🤖 Automation & Quality Engineering
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="55" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="55" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="55" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="55" alt="Bootstrap" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="55" alt="Tailwind CSS" />
-</div>
-
-### 🔧 Tools & DevOps
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="55" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="55" alt="GitHub" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="55" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original-wordmark.svg" height="55" alt="JUnit" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="55" alt="Selenium" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="55" alt="Postman" />
-  <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-sisvvf6k.png" height="55" alt="Swagger" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="55" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="55" alt="Docker" />
+  <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-sisvvf6k.png" height="55" alt="OpenAPI/Swagger" />
 </div>
 
+### 📈 DevOps & Developer Experience
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="55" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="55" alt="Git" />
+  <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" height="55" alt="Sonar" />
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="55" alt="Prometheus" />
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="55" alt="Grafana" />
+</div>
 
 ---
 
-## 💡 What I Build
+## 🧩 Backend & Automation Focus Areas
 
-✨ **Secure Authentication Systems** – Spring Security + JWT  
-📦 **Scalable REST APIs** – OpenAPI 3 docs, role-based access, validations  
-🧠 **Backend-Heavy Web Apps** – MongoDB, MySQL, Redis caching  
-🎨 **Modern Frontends** – React.js, Tailwind, and responsive UI  
-🐳 **Dockerized Deployments** – Production-ready and containerized  
+✨ **Backend Architecture**
+- Layered and modular Spring Boot design
+- DTO/entity separation, validation, and exception handling
+- Performance optimization with caching and asynchronous processing
+
+🛡️ **API Security & Reliability**
+- Spring Security with JWT/OAuth2 and role-based access controls
+- OpenAPI-first documentation and contract consistency
+- Audit logging, rate limiting patterns, and fault-tolerant design
+
+🧪 **Test Automation Strategy**
+- Unit testing with JUnit + Mockito
+- Integration testing with Spring Boot Test + Testcontainers
+- API regression suites using Postman/Newman and CI execution
+
+⚙️ **CI/CD & Delivery Automation**
+- GitHub Actions for build, test, and release workflows
+- Dockerized build/deploy for environment parity
+- Quality gates with static analysis and minimum coverage checks
+
+📊 **Monitoring & Operability**
+- Health and metrics with Spring Boot Actuator
+- Dashboards and alerts via Prometheus + Grafana
+- Structured logs for faster production troubleshooting
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Currently Strengthening
 
-- Spring Boot 3 & Jakarta EE  
-- Microservices patterns (API Gateway, Service Discovery)  
-- AWS & Azure cloud deployment  
-- CI/CD automation with GitHub Actions & Docker  
-- NLP & AI in backend APIs
+- Advanced microservices communication patterns
+- Event-driven backend workflows (Kafka/RabbitMQ)
+- Infrastructure as Code and deployment automation
+- Security testing and pipeline hardening
+- Cloud-native Java services on AWS/Azure
 
 ---
 
